@@ -1,0 +1,48 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.out
+*.app
+
+*.tlog
+*.lastbuildstate
+*.log
+*.idb
+*.VC.db
+*.ipch
+*.iobj
+*.ipdb
+
+*.aps
+.vs/*
+build/*
+Debug/*
+Release/libs/*
+Release_static/libs/*
+Release/dlltester_*.exe
+*.user
+*.exp
